@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+
+}
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 6px;
+    border-radius: 10px ;
+    border-color: blueviolet;
+    padding: 8px;
+}
+button {
+    margin-top: 4px;
+    color: white;
+    background-color: black;
+    border-color: blueviolet;
+    border-radius: 10px;
+    padding: 8px 10px;
+}
+
+ul {
+    
+    font-size: large;
+    margin-top: 1%;
+}
+li {
+   color: blueviolet;
+   margin-top: 0.75%;
+}
+
+a {
+  color: black;
+  text-decoration-color: blueviolet;
+
+}
